@@ -9,7 +9,6 @@
   
   
   #### MLD
-  MLD 
   Humain(<ins>ID_humain</ins> ,nom,poste,date_recrutement) 
   Robot(<ins>id_robot</ins>,nom,modele,etat) 
   Action(<ins>id_action</ins>,description,date_debut,date_fin) 
